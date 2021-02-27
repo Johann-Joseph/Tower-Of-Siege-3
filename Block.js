@@ -29,7 +29,7 @@ class Block{
           pop();
         }
       }
-      Score(){
+      score(){
         if (this.visablity<0&&this.visablity>-105){score=score+1}
       }
 }
